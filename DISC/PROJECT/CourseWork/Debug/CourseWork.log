@@ -1,0 +1,21 @@
+﻿  Polygon.cpp
+  Player.cpp
+c:\users\mick\documents\programming\coursework\c++\coursework\player.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mick\documents\programming\coursework\c++\coursework\player.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\mick\documents\programming\coursework\c++\coursework\player.cpp(120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mick\documents\programming\coursework\c++\coursework\player.cpp(126): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mick\documents\programming\coursework\c++\coursework\player.cpp(191): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameWorld.cpp
+c:\users\mick\documents\programming\coursework\c++\coursework\gameworld.cpp(23): warning C4129: 'O': unrecognized character escape sequence
+  Circle.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Source.cpp
+  Platform.cpp
+  Heart.cpp
+  GamePoint.cpp
+  EnemyObject.cpp
+  EndGameObject.cpp
+  Box.cpp
+  CourseWork.vcxproj -> C:\Users\mick\Documents\Programming\Coursework\C++\Debug\CourseWork.exe
+  CourseWork.vcxproj -> C:\Users\mick\Documents\Programming\Coursework\C++\Debug\CourseWork.pdb (Full PDB)

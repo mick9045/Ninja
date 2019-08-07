@@ -1,0 +1,23 @@
+﻿  Box.cpp
+  Circle.cpp
+  EndGameObject.cpp
+  EnemyObject.cpp
+  GamePoint.cpp
+  GameWorld.cpp
+GameWorld.cpp(23): warning C4129: 'O': unrecognized character escape sequence
+  Heart.cpp
+  Platform.cpp
+  Player.cpp
+Player.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(59): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(126): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(191): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Polygon.cpp
+  Source.cpp
+  Generating code
+  0 of 1036 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CourseWork.vcxproj -> C:\Users\mick\Documents\Programming\Coursework\C++\Release\CourseWork.exe
